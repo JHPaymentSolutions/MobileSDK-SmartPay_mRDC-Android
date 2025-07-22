@@ -25,11 +25,11 @@ For more information, visit [Jack Henry](https://qa.api.payments.jackhenry.com/d
 
 | Technology                | Version |
 |:--------------------------|:--------|
-| Android Gradle Plugin     | 8.4     |
-| Gradle                    | 8.6     |
+| Android Gradle Plugin     | 8.6.1   |
+| Gradle                    | 8.7     |
 | Kotlin                    | 1.9.23  |
 | JDK                       | 17      |
-| Android min API level     | 30      |
+| Android min API level     | 31      |
 | Android target API level  | 35      |
 | Android compile API level | 35      |
 
